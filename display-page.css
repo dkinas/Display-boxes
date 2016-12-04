@@ -1,0 +1,49 @@
+main {
+	font-size: 0px;
+}
+.box {
+  height: 100px;
+  width: 100%;
+  display: inline-block;
+  font-size:0px;
+ }
+.box1 {
+  height: 200px;
+  width: 50%;
+}
+.box2 {
+  height: 200px;
+  width: 50%;
+}
+.box3 {
+  height: 300px;
+  width: 33.33%;
+}
+.black{
+	background-color: black;
+	 border: 1px;
+}
+
+.red{
+		background-color: red;
+	 border: 1px;
+}
+
+.blue{
+		background-color: blue;
+	 border: 1px;
+}
+
+.green{
+	background-color: green;
+	 border: 1px;
+}
+
+.yellow{
+	background-color: yellow;
+	 border: 1px;
+}
+
+.centered {
+  text-align: center;
+}
